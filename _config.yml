@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hackers in the Bazaar Blogs.
 permalink: ':title/'
 baseurl: "/gigachad" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sambattalio.github.io" # <link rel="stylesheet" href="{{ root_url }}/css/main.css">the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
