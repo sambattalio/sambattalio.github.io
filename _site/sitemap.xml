@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://gigachad.com/blog/welcome-to-jekyll/</loc>
-<lastmod>2017-04-06T06:32:20-04:00</lastmod>
+<loc>https://gigachad.com/welcome-to-jekyll/</loc>
+<lastmod>2021-02-04T05:32:20-05:00</lastmod>
 </url>
 <url>
-<loc>https://gigachad.com/blog/</loc>
+<loc>https://gigachad.com/</loc>
 </url>
 <url>
-<loc>https://gigachad.com/blog/tags/</loc>
+<loc>https://gigachad.com/tags/</loc>
 </url>
 <url>
-<loc>https://gigachad.com/blog/live_site/</loc>
+<loc>https://gigachad.com/live_site/</loc>
 <lastmod>2021-02-05T19:41:36-05:00</lastmod>
 </url>
 <url>
-<loc>https://gigachad.com/blog/live_site/tags/</loc>
+<loc>https://gigachad.com/live_site/tags/</loc>
 <lastmod>2021-02-05T19:41:36-05:00</lastmod>
 </url>
 <url>
-<loc>https://gigachad.com/blog/live_site/welcome-to-jekyll/</loc>
+<loc>https://gigachad.com/live_site/welcome-to-jekyll/</loc>
 <lastmod>2021-02-05T19:41:36-05:00</lastmod>
 </url>
 </urlset>

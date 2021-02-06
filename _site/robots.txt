@@ -1,1 +1,1 @@
-Sitemap: https://gigachad.com/blog/sitemap.xml
+Sitemap: https://gigachad.com/sitemap.xml
