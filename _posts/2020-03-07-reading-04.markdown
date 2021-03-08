@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Reading 04: Why yes I got an extension, how could you tell?"
+date: 2021-03-07 19:32:20 +0300
+description: A very good reading response # Add post description (optional)
+img: bois.jpg  # Add image post (optional)
+---
+
+Blog 4: 
+
+Paul Graham’s idea of a hacker is a very picturesque and almost idealistic viewpoint of someone connecting with the computer and creating art. Though I feel like I largely agree with his idea of hackers in the sense of painters, I feel like the turn of more political and “Americanness” he preaches for hackers might not exactly be something general to hackers.
+
+Paul Graham’s hacker is very similar to that of Levy, however as mentioned this shift of Americanness and liberties seems to separate from what Levy preached. Levy seemed to speak of the hacker as almost isolated from normal society, and only caring about stretching the limits of computing. Graham, on the other hand likens a hacker to an artist and characterizes them as people who think or should be thinking about implications of American laws regarding IP. I find this to be the greatest dissonance, where otherwise I find their model of the “hacker” to be generally very similar.
+
+I found the ideas brought out by Graham to be very thought provoking. The idea of the cyclical hacker is something that really resonated with me. I feel like this is essentially addressing burnout that is faced by many CS majors throughout their schooling or careers. I also found the idea of letting hackers design software rather than write it to achieve success in startups to be very intriguing. It makes sense that in most startups without set “design” people or departments the hacker or 10xer who carves up the whole architecture can come up with something quite beautiful. I really enjoyed the idea of the “standard deviation” of output, where not every hacker can design, and letting hackers design isn’t necessarily the safe bet for most companies. However, it seems more like a gamble. I can definitely agree with this idea Graham brought up and carried this into the idea of hackers striving mostly in new markets in this current landscape.  I do also agree with the ideal that for hackers to find a place to actually write great software is to do it yourself in a startup. You won’t have the opportunity to write something beautiful generally when writing industry code at a FAANG.
+
+I didn’t necessarily like all of the ideas brought up in these essays however. I feel like the whole rant about intellectual property isn’t fully correct. Sure, total closed source and not allowing to see other ideas could lead to a slower or less productive landscape, but its this shift in laws which allowed the scene to flood with money and with that, more hackers/engineers to create technology at the scale it is today. If it weren’t for IP protection, technology wouldn’t be ANYWHERE near it is today, and I feel like Graham overlooks that at least to some extent. Further, I slightly disagree with the pedestal he puts startups and their code quality. I feel like he is really keying in on the 1% of startups that actually make it or have a great “hacker” who can achieve at the level he is talking of. I feel like largely a fair share of startups can achieve just as well or even greater by having the structure in design that big firms hold.
+
+Honestly, I feel like I resonate with the Graham version of the hacker more than that of the Levy hacker. However, I feel like it is one in the same, or perhaps just a more modern version of this hacker. This, if anything, makes the notion of being a hacker more desirable to me. I feel like the additions and modernizations that Graham brings up provides a more general or attainable hacker, though seemingly romanticizes the idea of a hacker a bit. I felt like I was reading a description of myself at times in looking through “Hackers and Painters” with the design style and levels. I wonder now what the 2020 description of the hacker would look like compared to Graham’s.
+
+
+~ Sam
