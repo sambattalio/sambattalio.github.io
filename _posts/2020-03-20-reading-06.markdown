@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Reading 06: Guess who turned it in on time?"
+date: 2021-03-13 19:32:20 +0300
+description: A very good reading response # Add post description (optional)
+img: bois.jpg  # Add image post (optional)
+---
+
+Blog 6: 
+
+It totally makes sense that Paul Graham preaches the virtue of startups given his history, but the sad reality is that startups rarely make it. Sure, it could theoretically be your “best bet” to get rich, but what odds are you betting on here? I like to consider myself a bit more of a pragmatic person, who wouldn’t dare jump away from a salary unless I had a great idea or total and utter faith and the startup I was jumping to. It seems by the way he phrased his article that you should almost leap before you look and just send it, disregarding your career or the fact you might not have any money-making ideas to form into a startup. That being said, I would absolutely be open to joining/creating one in the future, but now is definitely not the time for me personally, as the idea of throwing away a career and moving back in with my parents because my idea flopped is horrifying. I think this says a lot about Paul Graham and other modern hackers though. It is fairly easy for the winner of a bet to say they “knew” they were going to win. Likewise, I imagine most of these hackers in our society preach this risk because it worked out so greatly for them. Again, I am not wholly calling this a gamble, as Graham had the idea, drive, dedication, etc. But for the average population it very much is a gamble in my eyes.
+
+I absolutely love the idea that we should be promoting risk taking and entrepreneurship within reason. I mean these values are what made Silicon Valley and for a large part America itself boom into the economic power it is. However, not everyone can be business owners and I think it is largely unrealistic to employ those values on the masses as the be all end all. 
+
+I am not sure if I know what the next big thing is, but I am pretty convinced it will not be VR (at least yet). I feel the growth of mobile computing in the form of tablets and cell phones will continue rapidly. Toddlers are given iPads, kids iPhones/Androids, and it seems like they don’t get a “real” computer until far later in their lifespan. For that reason I could feasibly see  the rise of app development culture paired with short burst content (TikTok, Youtube 10 minute videos (optimized for their algorithm)). That is why I think it is a must that any consumer facing website, program, or game should seriously consider going mobile first or at least have strong mobile support. It is what the rising generation knows and loves and will go out of their way to use. Everyone has a phone these days, and I don’t see any reason why this will stop.
+
+Overall, I want to end on the idea that startups, though a great risk, are 100% for the better of the world and the individuals around them. It just takes a great idea (or maybe just a good idea at a great time) to be able to jump into that 10xer money. 	
+
+
+~ Sam
