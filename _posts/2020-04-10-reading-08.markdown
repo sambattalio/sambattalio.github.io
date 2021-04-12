@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Reading 08: What? I turned this in saturday idk what you're talking about"
+date: 2021-04-10 09:32:20 +0300
+description: A very good reading response # Add post description (optional)
+img: bois.jpg  # Add image post (optional)
+---
+
+Blog 8: 
+
+Open source is such an interesting part of computing which is so unique, wherein people are readily available to work together for “free” to solve a common goal. I say this is unique as you wouldn’t see this commonly in things like IB, marketing, etc. In what is largely seen as a fairly competitive industry marked by stolen ideas in the valley, it is wild to me that open source is so popular. To ESR, people are driven to participate in OSSD for what I see as two different major reasons. First is what I identify with the most, zealotry. As I described in class discussion last week, I basically shilled and was a big zealot guy. Another is anti-commercial, where they participate directly in competition with selling similar software. This is marked by the RMS types (total gigachads (see picture on top)). Even with this type, there is a strong feeling of loyalty towards projects, like pbui and void linux. I feel like in a way, this level of loyalty could at times be harmful to “new” members of a community. By no means am I saying pbui is too loyal to void, but it is VERY intimidating to jump into a new project’s discord, issue board, or irc channel and see the giga-contributors. It is something I think people just have to “get over” mentally, as I did, and realize most people in software won’t drop an RMS or Torvalds-esque rant at your first bug fix as long as you aren’t obnoxious about it.
+
+I think that the taboos listed by ESR are honestly really strong ways to keep a community central and strong. I find that there is a big pressure against forking, as it implies you can do it “better” and don’t want any help or future ideas of the current maintainers. This arises with things like Gimp/Glimp and seems to split/fracture a community. Further, the other two taboos listed are similar in a sense that they are almost “commandments” to keep a healthy community. They are things which discourage inclusion and tear down the importance of other people’s work. This is something so important to the open source community, as that is literally one of the only tangible benefits to doing it (being able to see you did it).
+
+
+I honestly do see the role of reputation to be fairly appealing to me and I believe a lot of people who contribute to open source. I’d like to step away from the idea of ego satisfaction however, as I feel that largely leads to crummy code which generally sucks compared to those who actually care about the end product. By this I mean I do think reputation within a project is important, but PRs just to do PRs is fairly harmful for a lot of projects. For example, Hacktoberfest just mercs so many projects on a yearly basis with half-assed PRs for a free shirt…. 
+
+
+For me, and what I would like to hope is also a lot of other developers, I think the inter-project reputation and pride of further improving projects you care about should be all that motivates you to participate. That or money given a case where you are a paid open source dev at a company. With those stipulations, I find you will get the healthiest and most active/caring members in a community. Open source is really a special thing that I genuinely enjoy taking part in. 
+
+
+~ Sam
