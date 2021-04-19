@@ -1,0 +1,22 @@
+I"*<p>Blog 9:</p>
+
+<p>Given the current climate of software engineering and my personal experience
+with open source and industry, I very strongly believe open source still makes
+business sense. Look at all of these “as-a-service” platforms out there in the
+world right now. Many of them are supported by their own open source code, but
+they just provide the management or hardware to physically run these services.
+Further, things like docker proves that open source is still very much viable 
+at least in the cloud industry. I think the idea of services makes great business sense, as it directly increases value for companies, but also provides a largely pay as you go approach for consuming businesses where they can scale appropriately and affordably.</p>
+
+<p>I find the term of “collecting rent” to be better of course in proprietary or full services, like think of photoshop. They don’t need independent review, they have a viable product. The feedback they get they can implement themselves and it works out. Other things like docker are very much community based and thrive on independent work from peers. It certainly is a tradeoff, and I think it comes down to scale of the project and production teams behind it. If you can support yourself, get that bread by any means possible. But if you need a massive project to have constant improvement and development and it is used BY SOFTWARE DEVELOPERS, why not just crowdsource their work? Artists aren’t going to contribute PR’s to a hypothetical open source Photoshop. Developers WILL do that for their favorite cloud platform or AWS library.</p>
+
+<p>I believe that further, in this cloud dominated world, ESR was laregly right. Having seen the breadth of cloud infrastructure which is open source and ubiqutous, it really shows the open core model holds true. I am confident open source will stay, as developers like having standards in an industry, and open source is a great way to keep consistent features and platforms. How else will they help
+each other on stackoverflow?</p>
+
+<p>The one problem that arises is big tech utilizing open source projects but giving nothing back to it. I am not sure you can do anything about it except just be kind of sad. In a true open source cauldron, you have to accept non-reciprocating members who just want the thing and nothing else. I think providing personalization for donations helps this though. For example, providing intensive support for X feature if Y company donates to the project. This gives the companies incentives to donate, without really just donating. This way is more of a consulting model. At the end of the day, you have to think of the bottom line.</p>
+
+<p>Long story short, the open source business model is far from broken in my eyes.
+Though some people might get the short stick, or projects die off due to lack of funding, we can see largely with the flagships like k8s or docker and even Amazon’s open source push that it is here to stay. Why else would big companies invest so much in it if it was a fad? Its time to sip the cauldron and make some PRs.</p>
+
+<p>~ Sam</p>
+:ET
